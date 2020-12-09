@@ -29,7 +29,7 @@
             android:defaultValue="-1" />
     </fragment>
     <fragment
-        android:id="@+id/exploreFragment2"
+        android:id="@+id/navigation_explore"
         android:name="com.example.davaleba.Fragments.ExploreFragment"
         android:label="ExploreFragment"
         tools:layout="@layout/fragment_explore" />
